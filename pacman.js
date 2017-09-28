@@ -4,6 +4,7 @@ var lives = 2;
 
 
 // Define your ghosts here
+var ghosts = {inky: 'Cyan', blinky: 'Red', pinky: 'Pink', clyde: 'Orange'};
 
 // replace this comment with your four ghosts setup as objects
 
